@@ -1,4 +1,4 @@
-
+# require './app'
 # feature 'print Hello world' do
 #   scenario 'Hello world' do
 #    visit('/')
